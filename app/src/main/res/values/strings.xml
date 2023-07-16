@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">producto de 3 numeros</string>
+
+
+    <string name="product_result">El producto es: %.2f</string>
+
+    <string name="number1_hint">Número 1</string>
+    <string name="number2_hint">Número 2</string>
+    <string name="number3_hint">Número 3</string>
+    <string name="calculate_button">Calcular</string>
+</resources>
